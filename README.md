@@ -26,7 +26,7 @@ cualquier usuario (privado o público).
 No se pueden escuchar canciones individualmente ya que la página consta de playlists y no de canciones (solo si se 
 crea una playlist con una sola canción). Cada canción tiene un artista como propietario.
 
--Artista: Estos son los propietarios de las canciones. Estos tendrán su propia página en la que se podrán consultar 
+- Artista: Estos son los propietarios de las canciones. Estos tendrán su propia página en la que se podrán consultar 
 sus canciones, información general sobre el grupo, y playlists en las que aparecen estos grupos.
 
 Información de los integrantes:
