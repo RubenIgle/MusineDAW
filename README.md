@@ -13,6 +13,11 @@ También estarán los artistas de cada canción en los cuales se podrán ver tod
 que les pertenecen, y las playlists en las que aparecen canciones de estos artistas. En la página de busqueda mencionada
 anteriormente se podrán buscar tanto playlists, como grupos o usuarios.
 
+A parte, la aplicación incorporará una funcionalidad de red social. Se podrán tener seguidores y seguir a otros usuarios.
+A parte de eso, en el muro del usuario saldrán las últimas playlists subidas, o que le han gustado a los usuarios seguidos.
+Y por último según lo que le haya gustado a otros usuarios, se recomendará al usuario que listas de reproducción le pueden gustar,
+ya sean según cercanía, lugar de trabajo, o gustos musicales.
+
 Las 4 entidades son:
 
 - Usuario: Aquí trataremos todo el tema del usuario privado, y su espacio personalizado en el que podrá subir canciones
