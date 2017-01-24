@@ -32,16 +32,23 @@ sus canciones, información general sobre el grupo, y playlists en las que apare
 Información de los integrantes:
 
 Daniel Ribeiro Chacón
+
 d.ribeiro@alumnos.urjc.es
+
 DaniRibCha
 
 Rubén Iglesias García
+
 r.iglesiasg@alumnos.urjc.es
+
 RubenIgle
 
 Davide Fregonese
+
 d.fregonese.2016@alumnos.urjc.es (github: fregonesedavide@gmail.com)
+
 Frego22
 
 Stephanie Poleo
+
 stephaniepoleo@hotmail.com
