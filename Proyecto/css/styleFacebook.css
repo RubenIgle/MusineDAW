@@ -313,6 +313,7 @@ p.change_link{
 }
 #login{
 	z-index: 22;
+    height: 12em;
 }
 #toregister:target ~ #wrapper #register,
 #tologin:target ~ #wrapper #login{
