@@ -15,10 +15,13 @@ body {
     width: 100%;
 }
 
+<<<<<<< HEAD
 .panel-heading {
     padding: 0px;
 }
 
+=======
+>>>>>>> origin/master
 #cabecera1 {
     height: 80px;
     background-color: #e6e6e6;
@@ -39,9 +42,14 @@ body {
     top: 12px;
     font-family: "trebuchet ms", "arial", sans-serif;
     font-weight: bold;
+<<<<<<< HEAD
     font-size: 3em;
     color: #8e8282;
     padding: 0px;
+=======
+    font-size: 4em;
+    color: #8e8282;
+>>>>>>> origin/master
 }
 
 #cabecera2 {
@@ -54,6 +62,7 @@ body {
 
 #busca {
     font-family: "trebuchet ms", "arial", sans-serif;
+<<<<<<< HEAD
     margin: auto;
     font-size: 1em;
     font-weight: bold;
@@ -65,51 +74,89 @@ body {
 #caja_de_busqueda {
     width: auto;
     margin: 0px;
+=======
+    margin: 0px;
+    font-size: 1em;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#caja_de_busqueda{
+    width: 190px;
+     margin: 0px;
+>>>>>>> origin/master
     padding: 0px;
 }
 
 #boton_de_buscar {
     border-radius: 7px 7px 7px 7px;
     font-weight: bold;
+<<<<<<< HEAD
     width: 2.7em;
     height: 2.2em;
+=======
+>>>>>>> origin/master
 }
 
 #navegacion {
     margin: 0px;
     background-color: #e6e6e6;
     border: 0px;
+<<<<<<< HEAD
     padding: 0px;
     text-align: center;
 }
 
+=======
+    padding:0px;
+}
+>>>>>>> origin/master
 .container-fluid {
     padding: 0px;
     text-align: center;
 }
 
+<<<<<<< HEAD
 .list-group-item {
     text-align: left;
 }
 
+=======
+>>>>>>> origin/master
 .btn-group {
     background-color: #e6e6e6;
     font-family: "trebuchet ms", "arial", sans-serif;
     font-size: 2em;
     font-weight: bold;
+<<<<<<< HEAD
     margin: auto;
     padding: 0px;
 }
 
+=======
+    margin: 0px;
+    padding: 0px;
+}
+
+
+>>>>>>> origin/master
 #sombraContenido {
     box-shadow: inset 0px 0px 50px -15px rgba(0, 0, 0, 0.75);
 }
 
+<<<<<<< HEAD
 #new {
     height: 40px;
 }
 
 #new>a {
+=======
+#home {
+    height: 40px;
+}
+
+#home>a {
+>>>>>>> origin/master
     color: #0093ff;
     font-family: "trebuchet ms", "arial", sans-serif;
     font-weight: bold;
@@ -119,12 +166,17 @@ body {
     left: 12.5px;
 }
 
+<<<<<<< HEAD
 #new>img {
+=======
+#home>img {
+>>>>>>> origin/master
     position: relative;
     top: 9px;
     left: 12.5px;
 }
 
+<<<<<<< HEAD
 #usuario{
     width: 20em;
     height: 18em;
@@ -180,6 +232,66 @@ body {
     position: relative;
     top: 0.1em;
     text-align: center;
+=======
+#usuario>img{
+    position: relative;
+    left: 20em;
+}
+
+#usuario>p{
+  font-family: "trebuchet ms", "arial", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  width: 35%;
+  position: relative;
+  left: 21.5em;
+  text-align: center;
+}
+
+#Recomendacion{
+    font-size: 1.2em; 
+    width: 36em;
+    height: 17em;
+    position: relative;
+    top: -16em;
+    left: 1em;
+}
+
+#Recomendacion>img{
+  position: relative;
+}
+
+#Recomendacion>p{
+  font-family: "trebuchet ms", "arial", sans-serif;
+  font-size: 1.2em;
+  width: auto;
+  position: relative;
+  top: 0.1em;
+  text-align: center;
+}
+
+#boton-play{
+    width: 12em;
+    position: relative;
+    top: -12em;
+    left: 12em;
+    padding:62px 62px;
+    /* ---------------------------------------
+El padding de arriba: 
+mitad de ancho total menos mitad del play  
+
+200/2 = 100 | 76/2 = 38 --> 100-38 = 62
+200/2 = 100 | 76/2 = 38 --> 100-38 = 62
+-----------------------------------------*/
+}
+
+#song{
+  font-family: "trebuchet ms", "arial", sans-serif;
+  position: absolute;
+  text-align: center; 
+  top: 14.4em;
+  left: 11.3em; 
+>>>>>>> origin/master
 }
 
 .col-md-2 {
@@ -191,6 +303,10 @@ body {
     height: 300px;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 #pie {
     height: 50px;
     background-color: #e6e6e6;
@@ -199,9 +315,25 @@ body {
     box-shadow: inset 0px 0px 50px -15px rgba(0, 0, 0, 0.75);
 }
 
+<<<<<<< HEAD
 #pie>nav {
     width: auto;
     text-align: center;
     position: relative;
     bottom: 0.5em;
+=======
+#pie>p {
+    font-size: 0.7em;
+    font-weight: bold;
+    font-family: "verdana", "arial", sans-serif;
+    color: #8e8282;
+    margin: 0px;
+}
+
+#pie>nav{
+    width: 4%;
+    position: relative;
+    top: -1.3em;
+    left: 78em;
+>>>>>>> origin/master
 }
