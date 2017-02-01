@@ -1,12 +1,15 @@
 body {
     margin: 8px;
+    background-color: whitesmoke;
+    border: 6px solid darkcyan;
+    border-style: double;
 }
 
 #web {
     height: auto;
     margin: auto;
-    border: 1px solid #e6e6e6;
-    border-radius: 4px;
+    border: 8px solid darkcyan;
+    border-style: groove;
     padding: 0px;
 }
 
@@ -38,6 +41,7 @@ body {
 
 .container-fluid {
     padding: 0px;
+    width: 100%;
 }
 
 .container {
@@ -45,19 +49,68 @@ body {
 }
 
 .navbar {
-    margin-bottom: 0px;
+    margin-top: 0;
+}
+
+.navbar-default {
+    margin-bottom: 2em;
+    border: 8px solid darkcyan;
+    border-style: groove;
+    padding: 0px;
+}
+
+.col-md-3 {
+    padding: 0;
 }
 
 .btn-default.active {
     width: 100%;
+    border-style: outset;
 }
 
 .btn-default {
     width: 100%;
+    border-style: outset;
 }
 
-.col-md-3 {
-    position: relative;
-    min-height: 1px;
-    padding: 0;
+.col-md-6>table {
+    width: 100%;
+}
+
+table th {
+    border: 8px solid darkcyan;
+    border-style: groove;
+    padding: 0px;
+    background-color: whitesmoke;
+}
+
+#posted span {
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+}
+
+table img-responsive {
+    margin: auto;
+}
+
+table li {
+    list-style: none;
+}
+
+table ul {
+    list-style: none;
+}
+
+a.tag {
+    padding: 10px 18px;
+    margin: 0 8px 8px 0;
+    border: 1px solid #120707;
+    border-radius: 30px;
+    display: inline-block;
+    color: #666;
+}
+
+.playlist-title {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
 }
