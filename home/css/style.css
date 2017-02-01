@@ -1,0 +1,63 @@
+body {
+    margin: 8px;
+}
+
+#web {
+    height: auto;
+    margin: auto;
+    border: 1px solid #e6e6e6;
+    border-radius: 4px;
+    padding: 0px;
+}
+
+#header a {
+    color: aqua;
+    font-family: "trebuchet ms", "arial", sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.navbar>.container-fluid .navbar-brand {
+    margin-left: 15px;
+}
+
+#search {
+    position: relative;
+    left: 50px;
+}
+
+#logo {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#logo>img {
+    width: 100%;
+    height: 100%;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+.container {
+    width: 100%;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.btn-default.active {
+    width: 100%;
+}
+
+.btn-default {
+    width: 100%;
+}
+
+.col-md-3 {
+    position: relative;
+    min-height: 1px;
+    padding: 0;
+}
